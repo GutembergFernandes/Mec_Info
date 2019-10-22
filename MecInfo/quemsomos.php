@@ -140,11 +140,11 @@
 
                 <div class=" card-body">
                 <p class="card-text">
-                <strong>Victu Nelson</strong><br>
-                <strong>Mathelson</strong><br>
-                <strong>Marley Nelson</strong><br>
+                <strong>Gabrielson</strong><br>
                 <strong>Gutenelson</strong><br>
-                  
+                <strong>Marley Nelson</strong><br>
+                <strong>Mathelson</strong><br>              
+                <strong>Victu Nelson</strong><br>  
                  </p>
                 </div>
             </div>
